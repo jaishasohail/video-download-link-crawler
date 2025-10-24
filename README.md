@@ -1,8 +1,3 @@
-## Repo Info Block
-Repo Name: video-download-link-scraper  
-Description: Video link extraction tool  
-Related Topics: video crawler, video scraper, video download, web scraping, data extraction, nodejs, crawling automation, link finder, media analysis, web crawler  
----
 
 # Video Download Link Crawler
 
